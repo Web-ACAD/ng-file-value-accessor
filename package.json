@@ -1,7 +1,7 @@
 {
 	"name": "@webacad/ng-file-value-accessor",
 	"description": "Angular form file input value accessor",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"keywords": [
 		"angular",
 		"form",
