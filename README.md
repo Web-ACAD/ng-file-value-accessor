@@ -10,22 +10,22 @@ Angular form module which will give you the `FileList` from your `<input type="f
 1. Check angular issue: [https://github.com/angular/angular/issues/7341](https://github.com/angular/angular/issues/7341)
 2. If it's resolved, **don't** use this library
 
+## Dependencies
+
+* `@angular/core`
+* `@angular/forms`
+* `rxjs`
+
 ## Installation
 
 ```bash
-$ npm install --save @angular/core@^5.0 
-$ npm install --save @angular/forms@^5.0 
-$ npm install --save rxjs^5.5.0
-$ npm install --save @webacad/ng-file-value-accessor 
+$ npm install --save @webacad/ng-file-value-accessor
 ```
 
 or with yarn
 
 ```bash
-$ yarna add @angular/core@^5.0 
-$ yarna add @angular/forms@^5.0 
-$ yarna add rxjs^5.5.0
-$ yarna add @webacad/ng-file-value-accessor 
+$ yarna add @webacad/ng-file-value-accessor
 ```
 
 ## Register module
